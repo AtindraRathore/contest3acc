@@ -1,0 +1,62 @@
+.tab:active{
+  color:green;
+}
+.tab{
+    margin-inline: 80px;
+}
+nav{
+    margin-top:0px;
+}
+nav>ul>li{
+    list-style-type: none;
+    display:inline-flex;
+    font-family: sans-serif;
+}
+#account{
+    margin-top: -46px;
+    margin-left: 94%;
+}
+.arbtn{
+    background-color:#EAAA00;
+    color:bisque;
+    font-family: sans-serif;
+    border:1px solid black;
+    border-radius:5px;
+    padding:10px;
+}
+.vrbtn{
+    background-color:green;
+    color:bisque;
+    font-family: sans-serif;
+    border:1px solid black;
+    border-radius:5px;
+    padding:10px;
+}
+.nvrbtn{
+    background-color:brown;
+    color:bisque;
+    font-family: sans-serif;
+    border:1px solid black;
+    border-radius:5px;
+    padding:10px;
+}
+.cardcover{
+  display:inline-flex;
+  gap:10px;
+}
+.card1{
+  border:1px solid grey;
+  border-radius: 5px;
+  width: 400px;
+  height:500px;
+}
+.card2{
+  border:1px solid grey;
+  border-radius: 5px;
+  width:900px;
+  height:500px;
+}
+.img{
+  border:1px solid white;
+  border-radius:8px;
+}
